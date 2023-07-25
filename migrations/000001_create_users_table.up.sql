@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `USERS`(
+    `Nama_lengkap` VARCHAR(100) NULL,
+    `Alamat` TEXT NULL,
+    `TTL` DATE NULL
+);
